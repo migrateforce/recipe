@@ -1,4 +1,4 @@
-# AI-First Migration Recipe Specification (AMRS) v1.0
+# Recipe - AI-First Migration Recipe Specification v0.1
 
 A standardized format for defining component migrations between platforms/services, designed for AI agent execution with human oversight.
 
