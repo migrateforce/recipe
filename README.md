@@ -1,6 +1,6 @@
-# Recipe - AI-First Migration Recipe Specification v0.1
+# Recipe -  Migration Recipe Specification v0.1
 
-A standardized format for defining component migrations between platforms/services, designed for AI agent execution with human oversight.
+A standardized framework for defining and managing component migrations across platforms and services, optimized for AI agents and LLM pipelines with seamless integration of human oversight.
 
 ## Table of Contents
 - [Overview](#overview)
